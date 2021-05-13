@@ -1,0 +1,10 @@
+.Counter {
+  align-items: stretch;
+  flex-direction: column;
+  text-align: center;
+}
+
+.Counter-error {
+  color: #c91010;
+  font-weight: bold;
+}
